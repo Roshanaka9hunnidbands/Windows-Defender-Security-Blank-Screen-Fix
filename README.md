@@ -1,6 +1,6 @@
 # Windows Security Blank screen/IT error Fix Executable
 
-This executable resolves a common glitch encountered in Windows Security after updating to a newer version of Windows. The glitch may manifest as a blank screen or an error message.
+This executable resolves a common glitch encountered in Windows Security after updating to a newer version of Windows 11 Prominently 23H2 . The glitch may manifest as a blank screen or an error message.
 
 ## Usage
 
