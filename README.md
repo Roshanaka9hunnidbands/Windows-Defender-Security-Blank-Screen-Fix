@@ -2,7 +2,7 @@
 
 ---
 
-# Windows Security Blank screen/IT error Fix Executable
+# Windows Defender Security Blank screen/IT error Fix Executable
 
 This executable resolves a common glitch encountered in Windows Security after updating to a newer version of Windows. The glitch may manifest as a blank screen or an error message.
 
@@ -12,7 +12,7 @@ This executable resolves a common glitch encountered in Windows Security after u
 2. **Run as Administrator**: Right-click on the executable file and select "Run as administrator" from the context menu.
 3. **Execution**: The script will open a command line interface and execute automatically. It will close by itself within 10-15 seconds.
 4. **Restart**: After the script finishes, restart your computer.
-5. **Verification**: Once your system restarts, Windows 11 Security should work as intended.
+5. **Verification**: Once your system restarts, Windows 11 Defender Security should work as intended.
 
 ## Important Note
 
